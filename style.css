@@ -1,0 +1,32 @@
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(food-366875_1280.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+  
+}
+body {
+    font-family: 'Rubik Bubbles','Do Hyeon','Gaegu', sans-serif;
+    h4{text-decoration-color:orange;}
+}
+
+
+ #pickit {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(cothqorud.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+ 
+
+.card-hover:hover {
+    background-color: #ffc10726;
+}
+
+#장바구니 {
+    background-image:  url(장바구니.png);
+}
+
+
